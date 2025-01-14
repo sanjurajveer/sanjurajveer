@@ -3,7 +3,7 @@
 <p align="center">  Hi there! 👋 </p>
 <p align='center'>
   My name is <b>Sanju Raj</b>.<br/>
-  I am <b>Data Science.</b> enthusiast<br>
+  I am <b>Data Science</b> enthusiast.<br>
   
 <p>📫 How to reach me:</p>
 
